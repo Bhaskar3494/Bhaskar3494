@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Bhaskar Jawar, A Qualty Assurance Engineer with Frontend Development
+- 👋 Hi, I’m Bhaskar Jawar, A Quality Assurance Engineer with Frontend Development experience
 - 👀 I’m interested in extending my career opportunities in Frontend Development (HTML, CSS, Javascript)
 - 🌱 I’m currently learning Full stack web development
 - 💞️ I’m looking to collaborate on any projects with initial frontend development or quality assurance requirements
